@@ -1,4 +1,4 @@
-# Project brief
+# Project Brief
 
 The members of the **Cow** collective are interested in having a website of their own. Read the following brief description on the proposed website:
 
