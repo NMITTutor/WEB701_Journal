@@ -27,3 +27,6 @@ No shortage of links to sieve about Information Architecture, a few Lynda tutori
 
 Setup a git journal and send link to tutor
 Fill out the brief template choosing a collective based around auctioning simillar to trade me and we have been specifically informed not to choose "Berries", therefore I am going with cows glorious evil cows
+
+## Todd Notes - to edit out later
+Ka pai! Good start! Add reflections on how IA is going to be used in your project, and on your experience installing and starting to use Express.js
