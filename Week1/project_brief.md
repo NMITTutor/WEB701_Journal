@@ -16,8 +16,8 @@ We would want each **dairy** manufacturer to provide the types, attributes and g
 
 We require the following features on the website:
 
-- Members and customers can log in and administer their account
-- Members use the auction system to register their products, and customers use the auction system to bid
-- Interactive element(s) that engages the website user
-- A web-based product quality calculator that prices the products based on its characteristics.
+* Members and customers can log in and administer their account
+* Members use the auction system to register their products, and customers use the auction system to bid
+* Interactive element(s) that engages the website user
+* A web-based product quality calculator that prices the products based on its characteristics.
   For example, berries may be priced according to size, taste, yield, colour, nutritional value, i.e. sugar content, vitamin C strength.

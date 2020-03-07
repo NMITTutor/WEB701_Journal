@@ -1,6 +1,6 @@
 # Course Overview
 
-# Session 1
+## Session 1
 
 In class, Todd our level 7 WEB tutor had us choose our own group and put together a presentation centered on the requirements for all of our assignments for the semester.
 
@@ -10,7 +10,7 @@ Our group "Team Middle Desk" have a shared presentation slide that I will need t
 
 Assignment one is the mandatory Journal worth 10%, this should be some easy marks to attain
 
-# Session 2
+## Session 2
 
 Information architecture
 http://maya.com/blog/what-is-information-architecture
