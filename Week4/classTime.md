@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-<img  width="750" height="220" alt="Types of API in gRPC" src="../assets/express_node.PNG">
+<img  width="750" height="220" alt="Express.js vs Node.js" src="../assets/express_node.PNG">
 </p>
 
 ## Express.js Vs Node.js 
