@@ -9,7 +9,7 @@ Installation of Express.js - touched on Express.js alongside React last semester
 ## gRPC Introduction
 
 An [Introduction to gRPC](https://youtu.be/XRXTsQwyZSU) link provided by our tutor is about a comparison between which is the popular choice for building **API** between **REST(HTTP-JSON)** and **gRPC**, gRPC is another popular framework that also allows you to build microservices.
-The vid goes on to say how difficult and confusing it is to build API REST-HTTP compared to gRCP, not having a lot to do with API and having only ever built one very small API without even realizing it, I am uneducated in this area to gauge fully and make a decision without having tried both.
+The vid goes on to say how difficult and confusing it is to build API REST-HTTP compared to gRPC, not having a lot to do with API and having only ever built one very small API without even realizing it, I am uneducated in this area to gauge fully and make a decision without having tried both.
 
 The gRPC Intro video is followed by a 2nd link provided by our tutor on [4 Types of API in gRPC](https://youtu.be/pzxy25ho5WY):
 
