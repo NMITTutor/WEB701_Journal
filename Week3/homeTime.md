@@ -21,3 +21,4 @@ What Buzz is thinking:
 - [x] Buff out a section in the report - assignment2 _covered 5 sections, there are so many_ 
 - [x] Have a nose at some of the provided resources - Moodle
 
+## Waiting on week 4
